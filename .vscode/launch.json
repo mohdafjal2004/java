@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "Easy.Sum",
+      "projectName": "java_70033e7d"
+    },
+    {
+      "type": "java",
       "name": "Factorial",
       "request": "launch",
       "mainClass": "Easy.Factorial",
